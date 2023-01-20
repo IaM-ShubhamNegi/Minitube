@@ -10,5 +10,5 @@ Website: https://minitube-shubham.netlify.app/
 
 to run this in localHost
 1.download the files
-2.in command terminal type: run npm install --legacy-peers-deps
+2.in command terminal type: run npm install --legacy-peer-deps
 3.in command terminal type: npm start
