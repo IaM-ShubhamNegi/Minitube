@@ -3,6 +3,7 @@
 
 Welcome to the Minitube project! This project aims to create a cut down version of YouTube with improved user experience and functionality. As a junior developer, this project demonstrates my skills in frontend web development and showcases my ability to integrate APIs for video search, playback, and display of video details.
 
+![project-mintube](https://github.com/IaM-ShubhamNegi/Minitube/assets/123191025/0382c19d-0df3-4bf2-ba55-f501121c6501)
 
 ## Features
 
